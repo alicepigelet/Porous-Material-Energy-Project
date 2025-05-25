@@ -35,7 +35,7 @@ Using quantitative data from life-cycle assessments, industrial studies, and sus
 |------|-------------|
 | [Energy emissions_data](https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/Output%20CSV%20Table.xlsx) | Tabulated energy and CO₂ emission data by material and process stage |
 | [Silica zeolite_analysis](https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/Silica%2C_Zeolite%2C_and_Glass_Energy_CO₂_Analysis.ipynb) | Jupyter notebook with visualizations and insights |
-| [summary](https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/Quantifying%20Energy%20Use%20and%20Emissions%20in%20Advanced%20Porous%20Material%20Manufacturing.docx) | One-page executive summary of methodology and findings |
+| [summary](https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/Quantifying%20Energy%20Use%20and%20Emissions%20in%20Advanced%20Porous%20Material%20Manufacturing.pdf) | One-page executive summary of methodology and findings |
 | [Porous Material Energy Project](https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/README.md) | This document |
 
 ---
@@ -49,3 +49,5 @@ Using quantitative data from life-cycle assessments, industrial studies, and sus
 
 ## 📌 Why This Matters
 Porous materials are essential to clean energy, pharmaceuticals, and industrial separations—but their production is **surprisingly carbon-intensive**. This project demonstrates how **data science** and **engineering analysis** can be used to assess and ultimately improve the sustainability of critical materials.
+<img src="https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/sunset.png" alt="Alt Text" width="200" align="right" />
+<br clear="all"/>
