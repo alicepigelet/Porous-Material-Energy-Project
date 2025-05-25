@@ -25,6 +25,8 @@ Using quantitative data from life-cycle assessments, industrial studies, and sus
 - 🔍 Identify energy “hotspots” (e.g., drying and calcination)
 - ♻️ Model potential emission savings through renewable energy adoption or process optimization
 - 🏗️ Showcase applied quantitative analysis in support of sustainable engineering strategies
+<img src="https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/sunset.png" alt="Alt Text" width="200" align="right" />
+<br clear="all"/>
 
 ---
 
