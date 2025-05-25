@@ -18,7 +18,7 @@ Using quantitative data from life-cycle assessments, industrial studies, and sus
 - Explore the **environmental impact** of switching to greener energy inputs or more efficient processes
 <p align="left">
   <img src="https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/There%20is%20no%20planet%20B.png" alt="Alt Text" width="200" style="vertical-align: middle;"/>
-  <span style="vertical-align: middle;">Your explanatory text goes here alongside the image.</span>
+  <span style="vertical-align: middle;"</span>
 </p>
 
 ---
