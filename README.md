@@ -16,7 +16,10 @@ Using quantitative data from life-cycle assessments, industrial studies, and sus
 - Estimate associated **CO₂ emissions per ton of material**
 - Compare traditional and advanced manufacturing routes
 - Explore the **environmental impact** of switching to greener energy inputs or more efficient processes
-![Alt Text](https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/There%20is%20no%20planet%20B.png)
+<p align="left">
+  <img src="https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/There%20is%20no%20planet%20B.png" alt="Alt Text" width="200" style="vertical-align: middle;"/>
+  <span style="vertical-align: middle;">Your explanatory text goes here alongside the image.</span>
+</p>
 
 ---
 
