@@ -49,5 +49,5 @@ Using quantitative data from life-cycle assessments, industrial studies, and sus
 
 ## 📌 Why This Matters
 Porous materials are essential to clean energy, pharmaceuticals, and industrial separations—but their production is **surprisingly carbon-intensive**. This project demonstrates how **data science** and **engineering analysis** can be used to assess and ultimately improve the sustainability of critical materials.
-<img src="https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/sunset.png" alt="Alt Text" width="200" align="right" />
+<img src="https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/curve.png" alt="Alt Text" width="200" align="left" />
 <br clear="all"/>
