@@ -32,7 +32,7 @@ Using quantitative data from life-cycle assessments, industrial studies, and sus
 | File | Description |
 |------|-------------|
 | [Energy emissions_data](https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/Output%20CSV%20Table.xlsx) | Tabulated energy and CO₂ emission data by material and process stage |
-| [Silica zeolite_analysis](https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/silica_zeolite_analysis.ipynb) | Jupyter notebook with visualizations and insights |
+| [Silica zeolite_analysis](https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/Silica%2C_Zeolite%2C_and_Glass_Energy_CO₂_Analysis.ipynb) | Jupyter notebook with visualizations and insights |
 | `summary.pdf` | One-page executive summary of methodology and findings |
 | [Porous Material Energy Project](https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/README.md) | This document |
 
