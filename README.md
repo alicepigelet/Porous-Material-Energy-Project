@@ -10,16 +10,13 @@ Study Abroad, William & Mary (2024–2025)
 ## 🧠 Overview
 This project analyzes and compares the **energy requirements** and **carbon emissions** associated with the industrial-scale production of **porous silica beads** and **zeolites**, two key materials used in catalysis, chromatography, and pharmaceutical manufacturing.
 
-Using quantitative data from life-cycle assessments, industrial studies, and sustainability reports, it aims to:<p align="right">
-  <img src="https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/There%20is%20no%20planet%20B.png" alt="Alt Text" width="200" style="vertical-align: middle;"/>
-  <span style="vertical-align: middle;"</span>
-</p>
-
-
+Using quantitative data from life-cycle assessments, industrial studies, and sustainability reports, it aims to:
 - Break down energy use by **production stage** (e.g., drying, calcination, crystallization)
 - Estimate associated **CO₂ emissions per ton of material**
 - Compare traditional and advanced manufacturing routes
 - Explore the **environmental impact** of switching to greener energy inputs or more efficient processes
+<img src="https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/There%20is%20no%20planet%20B.png" alt="Alt Text" width="200" align="left" />
+<br clear="all"/>
 
 ---
 
