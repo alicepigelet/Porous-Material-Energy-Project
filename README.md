@@ -15,6 +15,8 @@ Using quantitative data from life-cycle assessments, industrial studies, and sus
 - Estimate associated **CO₂ emissions per ton of material**
 - Compare traditional and advanced manufacturing routes
 - Explore the **environmental impact** of switching to greener energy inputs or more efficient processes
+
+This repository also includes a complementary case study on silica aerogel production, analyzing the Energy and CO₂ emissions associated with supercritical and ambient pressure drying routes.
 <img src="https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/There%20is%20no%20planet%20B.png" alt="Alt Text" width="200" align="left" />
 <br clear="all"/>
 
