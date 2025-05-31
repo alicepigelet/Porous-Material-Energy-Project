@@ -41,6 +41,7 @@ This repository also includes a complementary case study on silica aerogel produ
 | [Silica zeolite analysis](https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/Silica%2C_Zeolite%2C_and_Glass_Energy_CO₂_Analysis.ipynb) | Jupyter notebook with visualizations and insights |
 | [summary](https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/Quantifying%20Energy%20Use%20and%20Emissions%20in%20Advanced%20Porous%20Material%20Manufacturing.pdf) | One-page executive summary of methodology and findings |
 | [Silica Aerogel Energy Report](https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/Energy%20and%20CO₂%20Footprint%20of%20Industrial%20Silica%20Aerogel%20Production.pdf) | Energy and CO₂ breakdown of industrial silica aerogel production |
+| [Operating Energy Costs for Lighting and Aeration in Commercial Microalgae Cultivation](Operating Energy Costs for Lighting and Aeration in Commercial Microalgae Cultivation.pdf) | Report | 
 | [Porous Material Energy Project](https://github.com/alicepigelet/Porous-Material-Energy-Project/blob/main/README.md) | This document |
 
 ---
